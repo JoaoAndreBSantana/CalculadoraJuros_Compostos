@@ -52,8 +52,3 @@ Uma calculadora de juros compostos desenvolvida em Flutter, com visual moderno e
 4. Execute o app:
    ```sh
    flutter run
-
-
-## Licença
-
-Este projeto está sob a licença MIT.
