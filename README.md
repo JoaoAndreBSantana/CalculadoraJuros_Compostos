@@ -52,11 +52,7 @@ Uma calculadora de juros compostos desenvolvida em Flutter, com visual moderno e
 4. Execute o app:
    ```sh
    flutter run
-   ```
 
-## Screenshots
-
-> Adicione aqui prints da tela do app para ilustrar o funcionamento.
 
 ## Licença
 
